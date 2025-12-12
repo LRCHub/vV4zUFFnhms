@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "Underdog",
+  "base_artist": "Eve",
+  "createdAt": "2025-12-12T12:16:49.848396Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Risingson - Underdog Mix",
+      "artist": "Massive Attack",
+      "has_synced": true,
+      "path": "select/01_Risingson_-_Underdog_Mix_Massive_Attack.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Risingson (Underdog Mix)",
+      "artist": "Massive Attack",
+      "has_synced": true,
+      "path": "select/02_Risingson_(Underdog_Mix)_Massive_Attack.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Sly - Underdog Double Bass & Accapella",
+      "artist": "Massive Attack",
+      "has_synced": true,
+      "path": "select/03_Sly_-_Underdog_Double_Bass_&_Accapella_Massive_Attack.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Sly (Underdog Double Bass & Accapella)",
+      "artist": "Massive Attack",
+      "has_synced": true,
+      "path": "select/04_Sly_(Underdog_Double_Bass_&_Accapella)_Massive_Attack.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Be There (Underdog remix)",
+      "artist": "UNKLE",
+      "has_synced": false,
+      "path": "select/05_Be_There_(Underdog_remix)_UNKLE.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Be There (Underdog Remix)",
+      "artist": "U.N.K.L.E.",
+      "has_synced": false,
+      "path": "select/06_Be_There_(Underdog_Remix)_U.N.K.L.E..txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Alphabetical Response (Instrumental by Underdog)",
+      "artist": "The Brotherhood",
+      "has_synced": false,
+      "path": "select/07_Alphabetical_Response_(Instrumental_by_Underdog)_The_Brotherhood.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Bang Your Head - Underdog Mix",
+      "artist": "Gravediggaz",
+      "has_synced": false,
+      "path": "select/08_Bang_Your_Head_-_Underdog_Mix_Gravediggaz.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Be There (feat. Ian Brown) (Underdog remix)",
+      "artist": "UNKLE",
+      "has_synced": false,
+      "path": "select/09_Be_There_(feat._Ian_Brown)_(Underdog_remix)_UNKLE.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Lovesick (underdog mix)",
+      "artist": "Lisa Germano",
+      "has_synced": false,
+      "path": "select/10_Lovesick_(underdog_mix)_Lisa_Germano.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Rabbit in Your Headlights (Underdog mix)",
+      "artist": "UNKLE",
+      "has_synced": false,
+      "path": "select/11_Rabbit_in_Your_Headlights_(Underdog_mix)_UNKLE.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Rabbit In Your Headlights (feat. Thom Yorke) (Underdog Mix)",
+      "artist": "UNKLE",
+      "has_synced": false,
+      "path": "select/12_Rabbit_In_Your_Headlights_(feat._Thom_Yorke)_(Underdog_Mix)_UNKLE.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Slim (Underdog Remix)",
+      "artist": "Alpha",
+      "has_synced": false,
+      "path": "select/13_Slim_(Underdog_Remix)_Alpha.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Slim (Underdog Mix)",
+      "artist": "Alpha",
+      "has_synced": false,
+      "path": "select/14_Slim_(Underdog_Mix)_Alpha.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Top O' Tha Mornin' To Ya (Remix by The Underdog)",
+      "artist": "House Of Pain",
+      "has_synced": false,
+      "path": "select/15_Top_O'_Tha_Mornin'_To_Ya_(Remix_by_The_Underdog)_House_Of_Pain.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "With (Underdog Remix)",
+      "artist": "Alpha",
+      "has_synced": false,
+      "path": "select/16_With_(Underdog_Remix)_Alpha.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "O'Malley, Former Underdog",
+      "artist": "Deerhoof",
+      "has_synced": false,
+      "path": "select/17_O'Malley,_Former_Underdog_Deerhoof.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Spirit Of The Underdog",
+      "artist": "Europe",
+      "has_synced": false,
+      "path": "select/18_Spirit_Of_The_Underdog_Europe.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Stay (Faraway So Close) (Underdog mix)",
+      "artist": "U2",
+      "has_synced": false,
+      "path": "select/19_Stay_(Faraway_So_Close)_(Underdog_mix)_U2.txt"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Stay (Faraway, So Close!) (Underdog mix)",
+      "artist": "U2",
+      "has_synced": false,
+      "path": "select/20_Stay_(Faraway,_So_Close!)_(Underdog_mix)_U2.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Underdog",
+      "artist": "Eve",
+      "has_synced": false,
+      "path": "select/pl_01_Underdog_Eve.txt"
+    }
+  ]
+}
